@@ -39,5 +39,5 @@ const mark = {
     }
 }
 
-const {nameFinding: {newNameFinding: {name:names}}} = mark
-console.log(names);
+const {nameFinding: {newNameFinding: {name:names ,age:ages}}} = mark
+console.log(names,ages);
