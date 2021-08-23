@@ -41,3 +41,19 @@ const mark = {
 
 const {nameFinding: {newNameFinding: {name:names ,age:ages}}} = mark
 console.log(names,ages);
+
+
+
+
+
+// Nested Object Destructuring & controlling the something of undefined by (?) chaining
+const mark = {
+    nameFinding: {
+        newNameFinding: {
+            name : "Mark",
+            age : 23,
+            profession : "Student"
+        }
+    }
+}
+console.log(mark.nameFinding?.newNameFindings?.professions); // Controlling the (something of undefined by (?) chaining)
