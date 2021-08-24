@@ -1,6 +1,7 @@
 // Find Definition
 // 1: Will find an element based on condition
-// And will return the element not an array (Return the exact element)
+// 2: And will return the element not an array (Return the exact element)
+// 3: Jodi onk gulo match kore then just first element ta dibe not like filter (filte shob gulo diye dey jodi match kore)
 
 
 // Object 
