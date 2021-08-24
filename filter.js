@@ -1,6 +1,6 @@
 // Filter Definitions
 // 1: It will check each element for checking the condition
-// 2: And will return the elements if the condition get matched 
+// 2: And will return the elements if the condition get matched (Return Array)
 
 const numbers = [12,56,23,20,14,45,19,1,7,56,]
 
