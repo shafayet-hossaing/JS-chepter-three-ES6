@@ -57,3 +57,20 @@ const mark = {
     }
 }
 console.log(mark.nameFinding?.newNameFindings?.professions); // Controlling the (something of undefined by (?) chaining)
+
+
+
+
+
+// Simple One
+const mark = {
+    name : "Mark",
+    age : 23,
+    profession : "Student",
+    newObj:{
+        names: "Hello"
+    }
+}
+
+const {newObj: {names:num}} = mark
+console.log(num)
