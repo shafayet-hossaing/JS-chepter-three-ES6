@@ -1,3 +1,4 @@
+// static key
 class StaticMethod {
     constructor(name, id, aim){
         this.name = name
