@@ -1,3 +1,9 @@
+// Map Definitions :
+// 1: Will take each and every element
+// 2: And will through a loop 
+// 3: And return an array
+
+
 const numbers = [12, 13, 15, 56, 58]
 
 // Just Map()
